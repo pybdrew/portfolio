@@ -42,7 +42,6 @@ DadPath is a full-stack web application designed to help expecting fathers prepa
 
 **Project Links**
 - [View Live Application](https://dad-path.vercel.app)
-- [View Source Code](https://github.com/pybdrew/dad-path)
 - [Explore DadPath Project Documentation](./DadPath/README.md)
 
 ---
@@ -63,3 +62,4 @@ This portfolio will continue to grow as I complete additional software developme
 ## Contact & Professional Links
 
 - **GitHub:** [github.com/pybdrew](https://github.com/pybdrew)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/andrew-rodriguez-51a8a0233/)

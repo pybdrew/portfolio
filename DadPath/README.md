@@ -202,7 +202,7 @@ public PlannerEntity saveAll(String userId, Map<String, Object> newAnswers)
 
 A screencast presentation demonstrating the completed application, its primary functionality, implementation approach, and development challenges.
 
-**[Watch the DadPath Project Demonstration](ADD-SCREENCAST-LINK-HERE)**
+**[Watch the DadPath Project Demonstration](https://www.loom.com/share/1ab0a165e85e493fba8f3d6492d99067)**
 
 ---
 
@@ -211,39 +211,6 @@ A screencast presentation demonstrating the completed application, its primary f
 - **Live Application:** [https://dad-path.vercel.app](https://dad-path.vercel.app)
 - **Backend API:** [https://dad-path-production.up.railway.app](https://dad-path-production.up.railway.app)
 - **Private Source Repository:** [https://github.com/pybdrew/dad-path](https://github.com/pybdrew/dad-path)
-
-### Running the Project Locally
-
-The application can be run locally using the source code in the private repository.
-
-**Prerequisites**
-
-- Java 21
-- Maven
-- Node.js and npm
-- PostgreSQL
-
-**Backend**
-
-1. Configure the PostgreSQL database connection and required environment variables.
-2. Navigate to the backend directory.
-3. Start the Spring Boot application.
-
-**Frontend**
-
-1. Navigate to the frontend directory.
-2. Install dependencies using `npm install`.
-3. Start the Angular development server using `ng serve`.
-
-Refer to the private source repository README for complete setup instructions.
-
----
-
-## Supporting Project Artifacts
-
-- [Showcase Poster](Showcase%20Poster.pdf)
-- [Final Architecture Plan](Final%20Architectural%20Plan.pdf)
-
 ---
 
 ## Project Information
