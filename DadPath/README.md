@@ -210,7 +210,7 @@ A screencast presentation demonstrating the completed application, its primary f
 
 - **Live Application:** [https://dad-path.vercel.app](https://dad-path.vercel.app)
 - **Backend API:** [https://dad-path-production.up.railway.app](https://dad-path-production.up.railway.app)
-- **Private Source Repository:** [https://github.com/pybdrew/dad-path](https://github.com/pybdrew/dad-path)
+- **Private Source Repository:** [https://github.com/pybdrew/DadPath](https://github.com/pybdrew/DadPath)
 ---
 
 ## Project Information
